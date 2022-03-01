@@ -1,2 +1,2 @@
-# Experimenting with Git hub
+# Experimenting with Git and Git hub 
 
